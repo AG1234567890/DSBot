@@ -1,16 +1,16 @@
 {
 
-  "name": "Example",
+  "name": "NodeAI",
 
-  "description": "Example",
+  "description": "A Cool Bot",
 
-  "version": "0.0.0",
+  "version": "1.0.0",
 
   "main": "app.js",
 
   "scripts": {
 
-    "start": "node bot.js"
+    "start": "app bot.js"
 
   },
 
